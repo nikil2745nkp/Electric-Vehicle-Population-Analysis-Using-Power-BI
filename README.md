@@ -1,10 +1,10 @@
-# ⚡ Electric Vehicle Sales Dashboard (Power BI)
+#  Electric Vehicle Sales Dashboard (Power BI)
 
 An interactive **Power BI dashboard** designed to analyze and visualize **Electric Vehicle (EV) sales data**, uncovering key business insights, growth trends, and market performance.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This dashboard provides a comprehensive analysis of EV sales using dynamic visuals and KPIs. It helps understand:
 
@@ -15,31 +15,31 @@ This dashboard provides a comprehensive analysis of EV sales using dynamic visua
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
-* 📈 **Rapid Growth in EV Sales**
+*  **Rapid Growth in EV Sales**
 
   * EV adoption is increasing significantly over the years
 
-* 🌍 **Regional Trends**
+*  **Regional Trends**
 
   * Certain regions dominate EV sales due to better infrastructure
 
-* 🚗 **Top Vehicle Categories**
+*  **Top Vehicle Categories**
 
   * Specific EV types contribute the highest revenue/sales
 
-* 📅 **Yearly & Monthly Trends**
+*  **Yearly & Monthly Trends**
 
   * Seasonal patterns and growth spikes identified
 
-* 💰 **Revenue Contribution**
+*  **Revenue Contribution**
 
   * Key segments driving overall sales performance
 
 ---
 
-## 📌 Dashboard Features
+##  Dashboard Features
 
 * Interactive filters & slicers
 * Dynamic KPIs (Total Sales, Growth %, etc.)
@@ -49,7 +49,7 @@ This dashboard provides a comprehensive analysis of EV sales using dynamic visua
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * Power BI
 * Data Visualization Techniques
@@ -57,7 +57,7 @@ This dashboard provides a comprehensive analysis of EV sales using dynamic visua
 
 ---
 
-## ▶️ How to Use
+##  How to Use
 
 1. Download the `.pbix` file
 2. Open in **Power BI Desktop**
@@ -65,7 +65,7 @@ This dashboard provides a comprehensive analysis of EV sales using dynamic visua
 
 ---
 
-## 📌 Key Learnings
+##  Key Learnings
 
 * Data visualization best practices
 * Building interactive dashboards
