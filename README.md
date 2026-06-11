@@ -72,3 +72,4 @@ This dashboard provides a comprehensive analysis of EV sales using dynamic visua
 * Extracting actionable insights from raw data
 
 
+<img width="1305" height="718" alt="Screenshot 2026-05-30 230548" src="https://github.com/user-attachments/assets/7ce4f8a3-8604-4877-b45c-c797803585d1" />
